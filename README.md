@@ -101,9 +101,9 @@ Principles:
 ## Individual Contributions
 | Member    | Pattern Implemented | Design Principle    | Responsibilities                                                  |
 |-----------|---------------------|---------------------|-------------------------------------------------------------------|
-| Member 1  | Singleton           | Single Responsibility | Database schema design, DatabaseConnection singleton, User & Product repositories |
-| Member 2  | Factory             | Open/Closed         | PaymentProcessorFactory, OrderController logic, payment integration |
-| Member 3  | Observer            | Dependency Inversion | OrderTracker observer, view layer (ProductView, CartView, OrderView) |
+| Rithvik Kashyap B S (SRN: PES2UG22CS450) | Singleton           | Single Responsibility | Database schema design, DatabaseConnection singleton, User & Product repositories |
+| Rohan Mullay (SRN: PES2UG22CS455) | Factory             | Open/Closed         | PaymentProcessorFactory, OrderController logic, payment integration |
+| Rayaan Sataar (SRN: PES2UG22CS437) | Observer            | Dependency Inversion | OrderTracker observer, view layer (ProductView, CartView, OrderView) |
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
